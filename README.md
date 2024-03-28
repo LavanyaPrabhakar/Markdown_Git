@@ -23,7 +23,7 @@ _Display this part of sentence_ in Italics
 __Display this part of sentence__ in Bold
 
 <!--3. Strikethrough -->
-~~Display this part of sentence~~ in Bold
+~~Strikethrough this part of sentence~~ and **display this part** in Bold
 
 <!--4. Horizontal Rules (use underscore or hyphens) -->
 
