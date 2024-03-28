@@ -1,4 +1,5 @@
 # Markdown Code for Git
+---
 <!-- Headings (Uses #) -->
 # Heading 1
 ## Heading 2
